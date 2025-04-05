@@ -1,7 +1,8 @@
+
 #Se define variable nombre 
-nombre = "Nicolas"
+nombre =input("Ingrese su nombre: ")
 #Se define variable apellido 
-apellido = "Girelli"
+apellido =input("Ingrese su apellido: ")
 #Se define variable materia
 materia = "Programacion 1"
 #Se imprime mensaje por consola
