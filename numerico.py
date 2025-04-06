@@ -12,5 +12,3 @@ print("El numero decimal que ingresaste es:", numero_decimal)
 
 suma = numero_entero + numero_decimal
 print("La suma de ambos numeros es:", suma)
-
- 
