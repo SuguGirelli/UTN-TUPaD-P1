@@ -166,7 +166,7 @@ if hemisferio == "N":
         estacion = "Verano"
     elif (mes == 9 and dia >= 21) or (10 <= mes <= 11) or (mes == 12 and dia <21):
         estacion = "Otoño"
-elif hemisferio == "S":
+elif hemisferio == "S"
     if (mes == 12 and dia >= 21) or (1 <= mes <= 2) or (mes == 3 and dia < 21):
         estacion = "Verano"
     elif (mes == 3 and dia > 21) or (3 <= mes <= 4) or (mes == 5 and dia < 21):
