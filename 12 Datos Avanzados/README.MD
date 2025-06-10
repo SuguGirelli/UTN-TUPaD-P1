@@ -1,19 +1,7 @@
-# 💻 Programación 1  
-**Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+Trabajo practico integrador de Nicolas Girelli en conjunto con Julian Gomez
 
-## ✨ Estudiante  
-- **Nombre:** Girelli, William Nicolas 
-- **Comisión:** M2025-14
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+Video yotube: https://www.youtube.com/watch?v=wl1h2A5ydg8
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+Repositorio: https://github.com/SuguGirelli/UTN-TUPaD-P1/tree/main/12%20Datos%20Avanzados
 
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
-
+Espero que disfruten y entiendan de nuestra explicacion.
